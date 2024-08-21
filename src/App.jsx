@@ -13,7 +13,7 @@ function App() {
       <Hgroup>
         <Header>
           <Logo />
-          <Motto MottoMessage={"Vi ved hvor du bor!"}></Motto>
+          <Motto MottoMessage="Vi ved hvor du bor!"></Motto>
           <Nav></Nav>
         </Header>
       </Hgroup>

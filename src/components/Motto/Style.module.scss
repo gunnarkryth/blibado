@@ -1,17 +1,4 @@
 @use "../../assets/styles/variables" as v;
-.Logo {
-  * {
-    font-size: 3rem;
-  }
-  .Blue {
-    color: v.$blue;
-  }
-
-  .Amber {
-    color: v.$amber;
-  }
-
-  .Red {
-    color: v.$red;
-  }
+.Motto {
+  color: v.$blue;
 }
