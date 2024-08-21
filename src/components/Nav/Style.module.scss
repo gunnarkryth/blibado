@@ -1,0 +1,15 @@
+@use "../../assets/styles/variables" as v;
+
+.Nav {
+  color: v.$red;
+  font-size: 3rem;
+  background-color: v.$black !important;
+  ul {
+    display: flex;
+    gap: 1rem;
+    list-style: none;
+    li a {
+      text-decoration: none;
+    }
+  }
+}
